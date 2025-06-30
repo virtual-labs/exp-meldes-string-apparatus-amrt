@@ -4,11 +4,11 @@
 <b>Discipline | <b> Physical Sciences
 :--|:--|
 <b> Lab | <b> Harmonic Motion and Waves Virtual Lab
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Experiment|     <b> Melde's String Apparatus
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+Aim is to determine the frequency of electrically maintained tuning fork.
 
 <b>Name of Developer | <b> Amrita Virtual Labs
 :--|:--|
