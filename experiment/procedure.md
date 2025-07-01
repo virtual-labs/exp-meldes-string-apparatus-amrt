@@ -1,4 +1,9 @@
-### Procedure
+## Procedure
+
+### Apparatus:
+ 
+
+A long glass tube, piston, metal rod, powdered cork, ruler, clamps and leather piece.
 
 
 <h2>Performing Simulator</h2>
