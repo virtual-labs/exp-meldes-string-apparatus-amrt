@@ -1,4 +1,8 @@
-### Procedure
+## Procedure
+
+### Apparatus:
+ 
+Electrically maintained tuning fork, fine thread, scale pan, weights and meter scale.
 
 
 <h2>Performing Simulator</h2>
