@@ -73,6 +73,16 @@ Length = 3&nbsp;m<br>
 
 <p><strong>l</strong> - Length of one loop in m</p>
 
+#### Longitudinal mode
+
+$f=\sqrt{\frac{gM}{\mu l^2}} = .................. \text{Hz}$
+
+<h2>Results</h2>
+
+<ol>
+  <li>The frequency of electrically maintained tuning fork at <strong>longitudinal</strong> mode of vibration = ....................... Hz</li>
+  <li>The frequency of electrically maintained tuning fork at <strong>transverse</strong> mode of vibration = ....................... Hz</li>
+</ol>
 
 
 
