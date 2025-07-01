@@ -45,7 +45,7 @@ The time, during which the tuning fork completes one vibration, the string also 
 
 Therefore from equation (5),
 
-$$\text{Frequency }f=\sqrt{\frac{gM}{4\mu^2}}..................(6)$$
+$$\text{Frequency }f=\sqrt{\frac{gM}{4\mu l^2}}..................(6)$$
 
 Where
 
