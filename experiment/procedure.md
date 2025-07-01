@@ -2,8 +2,7 @@
 
 ### Apparatus:
  
-
-A long glass tube, piston, metal rod, powdered cork, ruler, clamps and leather piece.
+Electrically maintained tuning fork, fine thread, scale pan, weights and meter scale.
 
 
 <h2>Performing Simulator</h2>
