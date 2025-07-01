@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The points where the amplitude of the wave is maximum and the strain is least",
+      "answers": {
+        "a": "Nodes",
+        "b": "Anti-nodes",
+        "c": "Intermediate node",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Nodes are points of no displacement.",
+        "b": "Correct — anti-nodes have maximum amplitude and minimal strain.",
+        "c": "Not a standard term.",
+        "d": "Incorrect — anti-nodes is the correct answer."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In transverse wave, the particle displacement is .............. to the direction of wave propagation",
+      "answers": {
+        "a": "Always perpendicular",
+        "b": "Always parallel",
+        "c": "Either parallel or perpendicular",
+        "d": "Neither parallel nor perpendicular"
+      },
+      "explanations": {
+        "a": "Correct — transverse waves displace particles perpendicular to wave motion.",
+        "b": "This describes longitudinal waves.",
+        "c": "Incorrect — not applicable to transverse waves.",
+        "d": "Incorrect — there is a defined perpendicular relationship."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The length of the fundamental wave is equal to",
+      "answers": {
+        "a": "λ/2",
+        "b": "λ",
+        "c": "λ/4",
+        "d": "2λ"
+      },
+      "explanations": {
+        "a": "Correct — for a string fixed at both ends, fundamental wavelength = 2 × length.",
+        "b": "Incorrect — that would be for the second harmonic.",
+        "c": "Incorrect — typical for closed pipe resonance.",
+        "d": "Incorrect — higher harmonics involve multiples of λ/2."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
