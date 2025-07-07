@@ -2,35 +2,35 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "According to laws of vibrations of stretched strings, frequency of the fundamental node n is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Inversely proportional to the length",
+        "b": "Directly proportional to the square root of tension",
+        "c": "Inversely proportional to linear density",
+        "d": "All of the above."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Frequency is inversely proportional to length for a stretched string.",
+        "b": "Frequency increases with the square root of tension.",
+        "c": "Frequency decreases with increasing linear density.",
+        "d": "Correct — all of these are true based on the wave equation."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The frequency of sound produced is lowest in",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Harmonics",
+        "b": "Overtones",
+        "c": "Fundamental",
+        "d": "None of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Harmonics are multiples of the fundamental.",
+        "b": "Overtones are higher frequency modes.",
+        "c": "Correct — fundamental frequency is the lowest.",
+        "d": "Incorrect — fundamental is the lowest."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"

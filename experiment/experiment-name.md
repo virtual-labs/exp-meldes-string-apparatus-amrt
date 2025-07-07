@@ -1,1 +1,1 @@
-## Experiment name
+## Melde's String Apparatus
